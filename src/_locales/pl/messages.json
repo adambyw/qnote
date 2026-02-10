@@ -18,7 +18,7 @@
 		"message": "Edytuj"
 	},
 	"delete.note": {
-		"message": "Usuń?"
+		"message": "Usunąć?"
 	},
 	"reset.note.window": {
 		"message": "Przywróć pozycję"
@@ -123,10 +123,10 @@
 		"message": "Usuń"
 	},
 	"attach.bottom": {
-		"message": "gpód"
+		"message": "na spodzie"
 	},
 	"attach.top": {
-		"message": "góra"
+		"message": "na górze"
 	},
 	"attach.title": {
 		"message": "tytuł"
@@ -135,7 +135,7 @@
 		"message": "tekst"
 	},
 	"enable.message_attach": {
-		"message": "Dołącz do wiadomości"
+		"message": "Dołącz do wiadomości:"
 	},
 	"enable.debug.messages": {
 		"message": "Włącz komunikaty debugowania"
